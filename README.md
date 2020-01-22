@@ -16,3 +16,9 @@ building the Engine can be found
 3) Run `make`
 4) Run ./main
 
+# State of the repo.
+
+This was mostly an exploratory effort. Note that it contains many hacks that
+might not be necessary (mutexes, fences, etc). If you'd like more info please
+feel free to open an issue and I can attempt to upload older, potentially less
+hacky versions of the code.
